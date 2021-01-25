@@ -1,3 +1,5 @@
+[![js semistandard style](https://badgen.net/badge/code%20style/semistandard/pink)](https://github.com/Flet/semistandard)
+
 ## Javascript boilerplate
 
 Get started
